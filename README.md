@@ -1,5 +1,7 @@
 ### Hey there 👋 
 
+[![Linkedin Badge](https://img.shields.io/badge/-dhruv-bhavsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-bhavsar//)](https://www.linkedin.com/in/dhruv-bhavsar/) [![Gmail Badge](https://img.shields.io/badge/-dhruv25423@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruv25423@gmail.com)](mailto:dhruv25423@gmail.com)
+
 <!--
 **dhruv423/dhruv423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">
+<h2 align="center">
 ✨ Get in touch! ✨
   
   <p align="center"><br/>
@@ -25,4 +27,4 @@ Here are some ideas to get you started:
   </a>
   
 </p>
-</h1>
+</h2>
