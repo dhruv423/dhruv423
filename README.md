@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-[![Linkedin Badge](https://img.shields.io/badge/-dhruv-bhavsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-bhavsar//)](https://www.linkedin.com/in/dhruv-bhavsar/) [![Gmail Badge](https://img.shields.io/badge/-dhruv25423@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruv25423@gmail.com)](mailto:dhruv25423@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/)
+[![Linkedin Badge](https://img.shields.io/badge/-dhruvbhavsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-bhavsar/)](https://www.linkedin.com/in/dhruv-bhavsar/) [![Gmail Badge](https://img.shields.io/badge/-dhruv25423@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruv25423@gmail.com)](mailto:dhruv25423@gmail.com) 
 
 <!--
 **dhruv423/dhruv423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
