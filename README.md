@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋 👨‍💻 
 
 <!--
 **dhruv423/dhruv423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![dhruv423's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv423&show_icons=true)](https://github.com/dhruv423)
 
