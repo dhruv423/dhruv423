@@ -1,7 +1,9 @@
 ### Hey there 👋 
 
 <p align="center"><br/>
+  
   [![Linkedin Badge](https://img.shields.io/badge/-dhruvbhavsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-bhavsar/)](https://www.linkedin.com/in/dhruv-bhavsar/) [![Gmail Badge](https://img.shields.io/badge/-dhruv25423@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruv25423@gmail.com)](mailto:dhruv25423@gmail.com) 
+  
   </p>
 
 <!--
