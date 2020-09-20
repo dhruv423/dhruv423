@@ -1,5 +1,5 @@
 
-### Hey there 👋 
+### Hey there 👋 ![Visitor Count](https://profile-counter.glitch.me/{dhruv423}/count.svg)
 My name is Dhruv Bhavsar and am a computer science major who is passionate about leveraging technology to have a positive impact on society!
 - 🔭 I’m currently working at SAP on the Concur platform as a Software Engineer Intern. Seeking Summer 2021 Internships!
 - 💬 Ask me about anything!
