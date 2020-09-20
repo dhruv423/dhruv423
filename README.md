@@ -1,5 +1,5 @@
 
-### Hey there 👋
+### Hey there 👋 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdhruv423)
 My name is Dhruv Bhavsar and am a computer science major who is passionate about leveraging technology to have a positive impact on society!
 - 🔭 I’m currently working at SAP on the Concur platform as a Software Engineer Intern. Seeking Summer 2021 Internships!
 - 💬 Ask me about anything!
