@@ -1,5 +1,5 @@
 
-### Hey there 👋
+### Hey 👋
 My name is Dhruv Bhavsar and am a computer science major who is passionate about leveraging technology to have a positive impact on society!
 - 🔭 Incoming SWE Intern @ Shopify!
 - 💬 Ask me about anything!
